@@ -1,4 +1,4 @@
-#CIFAR-10 Training with some "well-known" methods
+**CIFAR-10 Training with some "well-known" methods**
 
 Simple models trained on the CIFAR-10 dataset using PyTorch.
 
