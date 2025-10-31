@@ -1,6 +1,6 @@
-# Basic CIFAR-10 WITH 79-82% ACCURACY
+#CIFAR-10 Training with some "well-known" methods
 
-A simple Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset using PyTorch.
+Simple models trained on the CIFAR-10 dataset using PyTorch.
 
 ## Usage
 ```bash
